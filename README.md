@@ -1,4 +1,4 @@
-# UTD
+# UTD (University Tax Documentation Initiative)
 
 ## About
 <p>This project is devoted to performing data analysis against the 2019 tax season return records of all Universities to determine which schools took the biggest losses in finances.  During said season, the school which I attended (Wentworth Institute of Technology) was emailing us stating that they were running a negative and needed to adjust tuitions accordingly. </p>
